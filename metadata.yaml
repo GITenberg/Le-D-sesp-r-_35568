@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/L%C3%A9on_Bloy
     - http://fr.wikipedia.org/wiki/L%C3%A9on_Bloy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35568#Le-D-sesp-r-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-03-13'
 gutenberg_type: Text
